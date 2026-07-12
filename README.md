@@ -1,6 +1,6 @@
 [🇫🇷 Version française](README.fr.md)
 
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Ton%20Nom&fontSize=55&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kawthar%20Bouguima&desc=Data%20Science%20student&fontColor=232323&reversal=false&section=header))
+![Header]([(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kawthar%20Bouguima&desc=Data%20Science%20student&fontColor=232323&reversal=false&section=header)]
 # Hi, I'm Kawthar 👋
 
 🎓 MIASHS student (Mathematics & Computer Science Applied to Social Sciences)
