@@ -1,16 +1,35 @@
-## Hi there 👋
+[🇫🇷 Version française](README.fr.md)
+Hi, I'm Kawthar 👋
 
-<!--
-**aka7ne/aka7ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MIASHS student (Mathematics & Computer Science Applied to Social Sciences)
 
-Here are some ideas to get you started:
+📍 Montpellier, France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Data Analytics, Machine Learning and AI.
+
+Technologies
+Python
+SQL
+R
+Power BI
+Orange Data Mining
+Git
+Current interests
+Data Analytics
+Machine Learning
+AI
+Data Visualization
+Statistics
+Featured Projects
+
+📊 Crime Data Analysis
+
+🤖 Machine Learning - Remote vs Office Prediction
+
+💬 Customer Review Clustering
+
+🌐 Full Stack Data Management Project
+
+📫 LinkedIn : https://www.linkedin.com/in/kawthar-bouguima-5a04393b3/
+
+📫 Email
