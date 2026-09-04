@@ -22,9 +22,6 @@ Machine Learning
 AI
 Data Visualization
 Statistics
-Featured Projects
-
-📊 Crime Data Analysis
 
 🤖 Machine Learning - Remote vs Office Prediction
 
